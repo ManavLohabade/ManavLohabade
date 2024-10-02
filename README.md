@@ -9,9 +9,6 @@
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ManavLohabade?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
-
-
-
 <br/>
   <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
@@ -24,3 +21,4 @@
   <br/>
 
 <br/><br/>
+
