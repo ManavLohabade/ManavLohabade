@@ -16,7 +16,7 @@
 <br>
 <div align=center>
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ManavLohabade&theme=prussian&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
- <a href="https://github-readme-stats.vercel.app/api?username=ManavLohabade&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+ <a href="https://github-readme-stats.vercel.app/api?username=ManavLohabade&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><a/>
   <br/>
 
 <br/><br/>
