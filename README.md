@@ -5,7 +5,7 @@
 </p>
 
 ### 💫 About Me:
-🔭 I’m currently working on: <br> Projects related to machine learning, deep learning, and multi-modal data analysis.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>🌱 I’m currently learning:<br>AWS Services and GraphQL.<br><br>💬 Ask me about:<br>Anything related to Software Development.<br><br>⚡ Fun fact:<br>I love creating content.
+🔭 I’m currently working on: <br> Projects related to machine learning, deep learning, and multi-modal data analysis.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>🌱 I’m currently learning:<br>AWS Services and GraphQL.<br><br>
 
 
 ### 🌐 Socials:
