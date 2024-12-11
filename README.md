@@ -1,4 +1,4 @@
-<p align="start">
+<p align="center">
   <img src="https://profile-counter.glitch.me/{manavlohabade}/count.svg" alt="Visitor Count" width="180" height="24" />
 </p>
 <h3 align="center">Greetings! I'm Manav Lohabade <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
@@ -77,7 +77,8 @@
 
 <br>
 
-# 📊 GitHub Stats:
+<p align="center">
+  📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manavlohabade&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manavlohabade&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manavlohabade&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manavlohabade&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</p>
