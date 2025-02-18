@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 🌱 I'm passionate about web development and contributing to open-source projects.
+- 🐱‍👤 My passion lies in the exciting worlds of Web3 and Web2 technologies and contributing to open-source projects.
 
 - 💬 Ask me about **JavaScript, React , MongoDB**
 
