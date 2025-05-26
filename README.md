@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manav Lohabade</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavlohabadeh&label=Profile%20views&color=0e75b6&style=flat" alt="manavlohabade" /> </p>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Rust**
 
 - 🐱‍👤 My passion lies in the exciting worlds of Web3 and Web2 technologies and contributing to open-source projects.
 
